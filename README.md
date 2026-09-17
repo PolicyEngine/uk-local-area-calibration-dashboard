@@ -29,3 +29,7 @@ npm run build      # static export to out/
    python scripts/split_json.py path/to/calibration_diagnostics.json
    ```
 3. Commit the updated files in `public/data/` — Vercel auto-deploys on push to `main`.
+
+## License
+
+Code in this repository is released under the [MIT License](LICENSE). Original text and figures are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with attribution to PolicyEngine. Third-party data and materials keep their own terms.
